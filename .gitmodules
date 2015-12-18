@@ -2,3 +2,9 @@
 	path = zsh/prezto
 	url = https://github.com/sorin-ionescu/prezto.git
   ignore = dirty
+
+
+[submodule "fabfiles"]
+  path = fabric
+	url = https://github.com/qberdugo/fabfiles.git
+  ignore = dirty
