@@ -1,2 +1,1 @@
-fabfile=~/.yadr/fabfiles/perso.py
-fabfile=~/.yadr/fabfiles/vz.py
+fabfile = ~/.yadr/fabfiles/
